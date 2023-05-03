@@ -1,2 +1,8 @@
-
+table,th,td{
+	border:1px solid black;
+}
+#black{
+	background:black;
+	color:white;
+}
 /* Your CSS Code here. */
