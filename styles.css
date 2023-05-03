@@ -2,7 +2,7 @@ table,th,td{
 	border:1px solid black;
 }
 #black{
-	background:black;
+	background-color:black;
 	color:white;
 }
 /* Your CSS Code here. */
